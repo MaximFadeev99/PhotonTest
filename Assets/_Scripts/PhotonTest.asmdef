@@ -1,0 +1,26 @@
+{
+    "name": "PhotonTest",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:fd9d6b7435b2d9049b0bcd544f6dff82",
+        "GUID:75ac5b1ace723bf4298785b341b16f23",
+        "GUID:1039278e0d20ceb48bea7217271e57e9",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:361b170037a7e6c4bb9ebb5bf9a1b8c8",
+        "GUID:831409e8f9d13b5479a3baef9822ad34",
+        "GUID:5510354fbfb70fc4c8cd2dc97a144d60",
+        "GUID:4b70f26baf091d245b467d05bac79819",
+        "GUID:7b34d48584707c246aaa496b9512ed4c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

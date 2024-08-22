@@ -1,0 +1,18 @@
+{
+    "name": "ShootingTargets",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7b34d48584707c246aaa496b9512ed4c",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:361b170037a7e6c4bb9ebb5bf9a1b8c8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

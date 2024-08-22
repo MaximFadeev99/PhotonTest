@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ea1d02fdb22d8846996bc9464bb95b2, type: 3}
+  m_Name: AK47Data
+  m_EditorClassIdentifier: 
+  <Damage>k__BackingField: 1
+  <AttackRange>k__BackingField: 20
+  <AttackCooldown>k__BackingField: 0
+  <UpperPointPosition>k__BackingField: {x: 0.571, y: 0.653, z: 0.876}
+  <LowerPointPosition>k__BackingField: {x: 0.695, y: -0.131, z: 0.74}
+  <BulletPrefab>k__BackingField: {fileID: -4600360860080990193, guid: 42ba46b5fce3bb642b42ffe82c9b9092, type: 3}
+  <MagazineCapacity>k__BackingField: 30
